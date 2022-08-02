@@ -18,6 +18,9 @@ Determine image quality contribution from uncorrected quasistatic wavefront erro
 Add content here
 ================
 
+.. include:: Wavefront.rst
+
+
 Add content here.
 See the `reStructuredText Style Guide <https://developer.lsst.io/restructuredtext/style.html>`__ to learn how to create sections, links, images, tables, equations, and more.
 
@@ -25,5 +28,5 @@ See the `reStructuredText Style Guide <https://developer.lsst.io/restructuredtex
 .. Uncomment to use citations
 .. .. rubric:: References
 .. 
-.. .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
-..    :style: lsst_aa
+.. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
+    :style: lsst_aa
