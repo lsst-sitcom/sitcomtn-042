@@ -3,7 +3,7 @@ To do this requires two sets of donuts, a set taken intra-focal and a set taken 
 
 
 background
-====
+==========
 Starting from with the derivation in :cite:p:`2015ApOpt..54.9045X`. Let us start by defining the wavefront signal :math:`S`:
 
 .. math::
@@ -39,14 +39,14 @@ Finally we can from the Pixel tilt obtain the RMS of the this tilt, which should
 
 
 Data processing:
-====
+================
 
 We processed the donuts by first isolating the each of the 20 donuts we on each side of focus. To do this we find the center of each donut utilizing the code module written for :cite:p:'sitcom-27'. Once each donut has been isolated and we found centers for them, we average over the 5 donuts we have at each position.
 Next we match up the 2 donuts we have on either side of the focus. From the information obtained on the inner and outer radius of the now 10 initial donuts, we generate a common mask for the 2 donuts on either side of the focus. 
 After applying this mask we can then proceed to add the images to obtain the Wavefront signal as described above. 
 
 Simulations:
-====
+============
 
 As a sanity check of the method we conducted our analysis on both real data and on a set of simulated donuts.
 We generated the donuts using Josh Myers' Donut generating code `Danish <https://github.com/jmeyers314/danish>`_, which is based on his batoid code `Batoid <https://github.com/jmeyers314/batoid>`_.
@@ -55,4 +55,4 @@ We generated donuts with a set of configurations that should correspond to the A
 
 
 Results:
-====
+========
