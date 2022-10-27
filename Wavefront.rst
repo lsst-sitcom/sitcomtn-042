@@ -63,7 +63,7 @@ Results:
 From the data processing we obtain the follwing results, dependent on our masking.
 
 .. figure:: /_static/result_20221012_7.5_mask1.png
-    :name: Results_with_simple_mask 
+    :name: simple_mask_res 
 
     We see here the results utilizing the simple circular mask to include all of the donut, but not cutting out the spiders. 
 
