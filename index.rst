@@ -15,14 +15,8 @@ Abstract
 
 Determine image quality contribution from uncorrected quasistatic wavefront errors via donut pair
 
-Add content here
-================
-
 .. include:: Wavefront.rst
 
-
-Add content here.
-See the `reStructuredText Style Guide <https://developer.lsst.io/restructuredtext/style.html>`__ to learn how to create sections, links, images, tables, equations, and more.
 
 .. Make in-text citations with: :cite:`bibkey`.
 .. Uncomment to use citations
